@@ -1,0 +1,36 @@
+.navbar{
+    display: block;
+    margin-top: 0%;
+    margin-left: 1140px;
+    word-spacing: 20px;
+    
+}
+span{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+.logo{
+     display: block;
+     margin-left: 550px;
+     margin-top: 50px;
+}
+input{
+  width: 500px;
+  height: 30px;
+  border-radius: 20px;
+  border-width: 2px;
+  background-color: rgba(246, 236, 236, 0.787);
+  position: absolute;
+  top:190px;
+  left:425px;
+  outline: none;
+}
+.button1{
+    position: absolute;
+    top:250px;
+}
+#btn1,#btn2{
+    border: none;
+    margin-right: 18px;
+    padding: 8px;
+}
